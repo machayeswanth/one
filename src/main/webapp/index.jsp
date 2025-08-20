@@ -826,7 +826,7 @@
     <!-- Hero Section -->
     <section class="hero">
         <div class="hero-content">
-            <h1>Monsoon Collection 2024</h1>
+            <h1>winter Collection 2024</h1>
             <p>Discover the latest trends in fashion, technology and accessories with up to 50% off selected items</p>
             <div class="hero-buttons">
                 <a href="#" class="btn btn-primary">Shop Now</a>
@@ -845,12 +845,12 @@
         <div class="categories">
             <div class="category-card">
                 <div class="category-icon"><i class="fas fa-mobile-alt"></i></div>
-                <h3>phones anthe</h3>
+                <h3>phones</h3>
                 <p>Latest models from top brands</p>
             </div>
             <div class="category-card">
                 <div class="category-icon"><i class="fas fa-laptop"></i></div>
-                <h3>Laptops dabbalu</h3>
+                <h3>laptops</h3>
                 <p>Powerful machines for work & play</p>
             </div>
             <div class="category-card">
